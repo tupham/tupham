@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tupham
-- 👀 I’m interested in BigData, Nodejs, Angular
-- 🌱 I’m currently learning BigData
+- 👀 I’m interested in AWS Cloud, Nodejs, Angular, Vuejs, PostgreSQL, MySQL
+- 🌱 I’m currently learning AWS Cloud
 - 💞️ I’m looking to collaborate on eCommerce, Logistic
 - 📫 How to reach me ...
 
